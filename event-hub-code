@@ -1,0 +1,62 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Event Hub</title>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>Event Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    
+    <!-- Upcoming Events Section -->
+    <section id="upcoming-events">
+      <h2>Upcoming Events</h2>
+      
+      <article>
+        <h3>Summer Music Festival</h3>
+        <p>Join us for an evening of live music, food trucks, and fireworks. Date: August 25, 2025</p>
+      </article>
+
+      <article>
+        <h3>Tech Innovators Conference</h3>
+        <p>Learn from industry leaders about the latest trends in technology and innovation. Date: September 10, 2025</p>
+      </article>
+    </section>
+
+    <!-- Past Events Section -->
+    <section id="past-events">
+      <h2>Past Events</h2>
+      
+      <article>
+        <h3>Spring Art Fair</h3>
+        <p>A showcase of local artists featuring paintings, sculptures, and live demonstrations. Date: April 12, 2025</p>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Spring Art Fair outdoor gallery">
+      </article>
+
+      <article>
+        <h3>Winter Charity Gala</h3>
+        <p>An elegant evening of dining and auctions to support local charities. Date: January 18, 2025</p>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Winter Charity Gala ballroom scene">
+      </article>
+    </section>
+
+  </main>
+
+</body>
+</html>
+
+** end of index.html **
